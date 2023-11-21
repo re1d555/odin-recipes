@@ -1,0 +1,29 @@
+* {
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-page {
+    text-align: center; 
+}
+
+.list {
+    display: inline-block;
+}
+
+.title {
+    color: orangered;
+}
+
+.lil-title {
+    color: brown;
+}
+
+img {
+    height: 350px;
+    width: 550px ;
+}
+
+a {
+    font-weight: bold;
+}
